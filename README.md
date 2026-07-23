@@ -16,11 +16,11 @@ IAM Analyst · Identity Security Engineer · Access Management Specialist
 
 | # | Project | Platform | Status |
 
-| 1 | [Joiner-Mover-Leaver Workflow](./Project-1-JML) | Okta Workforce Identity | ✅ Complete |
-| 2 | SSO + MFA Integration | Okta + Microsoft Entra ID | 🔄 In progress |
-| 3 | RBAC Design + Entitlement Matrix | Google Sheets + Entra ID | 🔄 In progress |
-| 4 | Access Review + Certification Process | Microsoft Entra ID | 🔄 In progress |
-| 5 | Privileged Access + Least Privilege Audit | GCP + Microsoft Entra PIM | 🔄 In progress |
+| 1 | [Joiner-Mover-Leaver Workflow](./Project-1-JML) | Okta Workforce Identity | ✅ Complete 
+| 2 | SSO + MFA Integration | Okta + Microsoft Entra ID | 🔄 In progress 
+| 3 | RBAC Design + Entitlement Matrix | Google Sheets + Entra ID | 🔄 In progress 
+| 4 | Access Review + Certification Process | Microsoft Entra ID | 🔄 In progress 
+| 5 | Privileged Access + Least Privilege Audit | GCP + Microsoft Entra PIM | 🔄 In progress 
 
 
 # Project 1 — Joiner-Mover-Leaver Workflow
