@@ -17,10 +17,14 @@ IAM Analyst · Identity Security Engineer · Access Management Specialist
 | # | Project | Platform | Status |
 
 | 1 | [Joiner-Mover-Leaver Workflow](./Project-1-JML) | Okta Workforce Identity | ✅ Complete 
+
 | 2 | SSO + MFA Integration | Okta + Microsoft Entra ID | 🔄 In progress 
-| 3 | RBAC Design + Entitlement Matrix | Google Sheets + Entra ID | 🔄 In progress 
-| 4 | Access Review + Certification Process | Microsoft Entra ID | 🔄 In progress 
-| 5 | Privileged Access + Least Privilege Audit | GCP + Microsoft Entra PIM | 🔄 In progress 
+
+| 3 | RBAC Design + Entitlement Matrix | Google Sheets + Entra ID |  not started 
+
+| 4 | Access Review + Certification Process | Microsoft Entra ID | not started
+
+| 5 | Privileged Access + Least Privilege Audit | GCP + Microsoft Entra PIM | not started
 
 
 # Project 1 — Joiner-Mover-Leaver Workflow
@@ -51,19 +55,19 @@ Okta, Identity lifecycle management, JML, RBAC, User provisioning, Deprovisionin
 
 # | Tool | Purpose |
 
-| Okta Workforce Identity | User lifecycle, SSO, MFA, group management |
-| Microsoft Entra ID | Conditional Access, PIM, access reviews, hybrid identity |
-| Google Cloud Platform (GCP) | IAM roles, service accounts, workload identity federation |
-| GitHub | Portfolio documentation and version control |
+| Okta Workforce Identity - User lifecycle, SSO, MFA, group management 
+| Microsoft Entra ID - Conditional Access, PIM, access reviews, hybrid identity 
+| Google Cloud Platform (GCP) - IAM roles, service accounts, workload identity federation 
+| GitHub - Portfolio documentation and version control 
 | draw.io | IAM architecture and workflow diagrams |
 
 # Certifications
 - Comptia Security +
-- Microsoft SC-300 — Identity and Access Administrator (renewed 2026)
+- Microsoft SC-300 — Identity and Access Administrator (renewing)
 
 # Contact
-- LinkedIn: 
-- Platform: CyberSis — cybersecurity education for non-technical audiences
+- LinkedIn: www.linkedin.com/in/george-moyin
+- Platform: Instagram & Tiktok  - the_CyberSis — cybersecurity education for non-technical audiences
 
 ---
-**This portfolio is actively being built. New projects added weekly.**
+**This portfolio is actively being built. New projects added as done.**
