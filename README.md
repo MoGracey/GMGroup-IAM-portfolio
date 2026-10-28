@@ -16,7 +16,7 @@ IAM Analyst · Identity Security Engineer · Access Management Specialist
 
 | # | Project | Platform | Status |
 
-| 1 | [Joiner-Mover-Leaver Workflow](./Project-1-JML) | Okta Workforce Identity | ✅ Complete 
+| 1 |[Joiner-Mover-Leaver Workflow] | Okta Workforce Identity | ✅ Complete 
 
 | 2 | SSO + MFA Integration | Okta + Microsoft Entra ID | 🔄 In progress 
 
